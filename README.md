@@ -53,6 +53,7 @@ php setup_database.php
 </VirtualHost>
   ```
   3- Enable the Virtual Host and Disable the default Site Configuration If Necessary:
+  
   ```
   sudo a2ensite zainiq-blog-tasks.conf
   sudo a2dissite 000-default.conf

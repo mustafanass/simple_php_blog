@@ -1,5 +1,5 @@
-# zainiq_blog_task
-this applications its simple blog application  is build by mustafa naseer for zainiq tasks , its small blog platform build using php pure without any framworks .
+# simple_php_blog
+this applications its simple blog application its small blog platform build using php pure without any framworks .
 
 # Technology used to build it 
 - using php pure (php v7.4.33) .
